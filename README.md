@@ -1,2 +1,2 @@
 # I-Mads20
-A website for displaying python project guide tor project 9 by team 20
+A python project on topic 9 by team 20
